@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "bicer"
+    given-names: "Semanur"
+    orcid: "https://orcid.org/0000-0002-XXXX-XXXX"
+title: "Bio-Mathematical Resilience: Hexagonal Lattice Simulation Framework"
+version: 1.0.0
+date-released: 2026-09-21
+url: "https://github.com/vrtys4tk-dev/bio-mathematical-resilience"
+doi: "https://doi.org/10.5281/zenodo.22878803"
