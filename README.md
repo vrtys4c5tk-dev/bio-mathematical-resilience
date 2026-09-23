@@ -10,6 +10,9 @@ Hexagonal Lattice Networks: To capture spatial connectivity and localized neighb
 4x3 Asymmetric Matrices: To simulate directional state transitions and anisotropic system behavior.
 
 Entropy-Based Throttling: A dynamic feedback mechanism that regulates computational or structural load under stress to prevent systemic failure.
+💼 Licensing & Commercial Use
+Core Engine: Licensed under the Apache 2.0 License (Free for open-source and personal use).
+Enterprise Add-ons (Cloud, FinTech, BioTech Adapters): Licensed under Source-Available Commercial Terms. For production environments, enterprise support, and custom integrations, please contact us directly at [semanur0619.bier@gmail.com].
 bio-mathematical-resilience/
 │
 ├── core/
